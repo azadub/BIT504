@@ -3,7 +3,7 @@ package HelloWorld;
 public class HelloWorldExample {
 
 	public static void main(String[] args) {
-		// Output Hello World to user
+		// This is added to see if there is a change
 		System.out.println("Hello World");
 
 	}
